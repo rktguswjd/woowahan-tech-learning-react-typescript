@@ -7,7 +7,7 @@
 # process
 
 - [x] [1회차](https://github.com/rktguswjd/woowahan-tech-learning-react-typescript/blob/master/first.md)
-- [ ] [2회차]()
+- [x] [2회차](https://github.com/rktguswjd/woowahan-tech-learning-react-typescript/blob/master/second.md)
 - [ ] [3회차]()
 - [ ] [4회차]()
 - [ ] [5회차]()
