@@ -4,9 +4,6 @@
 
 - JavaScript A-Z
 - 간단한 Redux 구현
-  <br />
-  <br />
-
 ---
 
 ## 강의
