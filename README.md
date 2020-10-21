@@ -13,4 +13,4 @@
 - [x] [5회차](https://github.com/rktguswjd/woowahan-tech-learning-react-typescript/blob/master/week3-1_fifth.md)
 - [x] [6회차](https://github.com/rktguswjd/woowahan-tech-learning-react-typescript/blob/master/week3-2_sixth.md)
 - [x] [7회차](https://github.com/rktguswjd/woowahan-tech-learning-react-typescript/blob/master/week4-1_seventh.md)
-- [ ] [8회차]()
+- [x] [8회차](https://github.com/rktguswjd/woowahan-tech-learning-react-typescript/blob/master/week4-1_eighth.md)
